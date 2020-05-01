@@ -2,7 +2,7 @@ const val kotlinVersion = "1.4-M1"
 
 object BuildPlugins {
     object Versions {
-        const val buildToolsVersion = "4.1.0-alpha04"
+        const val buildToolsVersion = "4.1.0-alpha07"
     }
 
     const val androidGradlePlugin = "com.android.tools.build:gradle:${Versions.buildToolsVersion}"
